@@ -1,0 +1,23 @@
+name: frino_icons_demo
+description: An example app for frino_icons package.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  frino_icons: ^1.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  expandable:
+    path: ../
+
+flutter:
+  uses-material-design: true
