@@ -1,0 +1,25 @@
+name: frino_icons
+description: Frino icon library, based on Frino Icons (by https://www.rafalfuczynski.com/frino/) and with the help of FlutterIcon.com
+author: Roman Nowicki <peengle@gmail.com>
+version: 1.0.1
+homepage: https://www.rafalfuczynski.com/frino/icons/
+repository: https://github.com/clean/frino_icons
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  fonts:
+    - family: FrinoIcons
+      fonts:
+        - asset: lib/fonts/FrinoIcons.ttf
+          weight: 400
