@@ -1,3 +1,7 @@
+## 1.0.1+2
+
+* Updated package description
+
 ## 1.0.1+1
 
 * Created a short demo in the example/ directory to show how to use this package.

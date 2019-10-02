@@ -1,7 +1,7 @@
 name: frino_icons
-description: Frino icon library, based on Frino Icons
+description: The Frino Icon pack available as Flutter Icons. Provides 300+ additional icons to use in your apps.
 author: Roman Nowicki <peengle@gmail.com>
-version: 1.0.1+1
+version: 1.0.1+2
 homepage: https://www.rafalfuczynski.com/frino/icons/
 repository: https://github.com/clean/frino_icons
 
