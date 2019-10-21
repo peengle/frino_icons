@@ -1,3 +1,8 @@
+## 1.0.1+3
+
+* Added missing F_360 icon
+* Added icons example image to readme
+
 ## 1.0.1+2
 
 * Updated package description
