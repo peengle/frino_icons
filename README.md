@@ -4,6 +4,8 @@ Flutter Frino icon library, based on Frino Icons created by Rafał Fuczyński an
 
 Check icon list on https://www.rafalfuczynski.com/frino/icons/
 
+![Frino Icons Examples](/doc/frino.examples.jpg)
+
 ## Installing
 
 Include `frino_icons` in your `pubspec.yaml` file:
