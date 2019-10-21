@@ -9,6 +9,8 @@ class FrinoIcons {
   static const _kFontFam = 'FrinoIcons';
   static const _kFontPackage = 'frino_icons';
 
+  static const IconData f_360 =
+      const IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPackage);
   static const IconData f_alarm =
       const IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPackage);
   static const IconData f_align_center =
