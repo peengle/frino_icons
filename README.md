@@ -4,7 +4,7 @@ Flutter Frino icon library, based on Frino Icons created by Rafał Fuczyński an
 
 Check icon list on https://www.rafalfuczynski.com/frino/icons/
 
-![Frino Icons Examples](/doc/frino.examples.jpg)
+![Frino Example Image](https://raw.githubusercontent.com/clean/frino_icons/master/doc/frino.examples.jpg)
 
 ## Installing
 
