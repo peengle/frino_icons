@@ -1,3 +1,7 @@
+## 1.0.1+4
+
+* Changed url to frino example image in README to make it visible on pub.dev
+
 ## 1.0.1+3
 
 * Added missing F_360 icon
