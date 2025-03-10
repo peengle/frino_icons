@@ -2,9 +2,9 @@
 
 Flutter Frino icon library, based on Frino Icons created by Rafał Fuczyński and with the help of FlutterIcon.com
 
-Check icon list on https://www.rafalfuczynski.com/frino/icons/
+Check icon list on https://www.rafalfuczynski.com/frino/
 
-![Frino Example Image](https://raw.githubusercontent.com/clean/frino_icons/master/doc/frino.examples.jpg)
+![Frino Example Image](https://raw.githubusercontent.com/peengle/frino_icons/master/doc/frino.examples.jpg)
 
 ## Installing
 
@@ -14,7 +14,7 @@ Include `frino_icons` in your `pubspec.yaml` file:
 dependencies:
   flutter:
     sdk: flutter
-  frino_icons: ^1.0.1
+  frino_icons: ^2.0.0
 ```
 
 If your IDE doesn't do it automatically, type:
