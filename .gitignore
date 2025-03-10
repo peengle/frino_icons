@@ -26,6 +26,7 @@ example/ios/*
 .pub/
 /build/
 /example/build/
+.fvm/
 
 # Web related
 lib/generated_plugin_registrant.dart
