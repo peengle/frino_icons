@@ -29,7 +29,7 @@ Import the package in your `dart` file and use `Icon` to get the actual icon wid
 ```dart
 import 'package:frino_icons/frino_icons.dart';
 ...
-Icon _icon = Icon(FrinoIcons.code);
+Icon _icon = Icon(FrinoIcons.f_code);
 ...
 ```
 
