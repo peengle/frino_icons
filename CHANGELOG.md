@@ -1,6 +1,10 @@
-## 2.0.1
+## 2.0.2
 
 * Update dependencies
+* Update exmaple code
+
+## 2.0.1
+
 * Update readme
 
 ## 2.0.0
