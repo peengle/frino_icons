@@ -1,3 +1,12 @@
+## 2.0.1
+
+* Update dependencies
+* Update readme
+
+## 2.0.0
+
+* BREAKING CHANGE: Null safety support
+
 ## 1.0.1+4
 
 * Changed url to frino example image in README to make it visible on pub.dev
